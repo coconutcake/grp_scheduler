@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/travis/coconutcake/grp_scheduler)](https://travis-ci.org/github/coconutcake/grp_scheduler)
+[![Status](https://img.shields.io/travis/coconutcake/grp_scheduler)](https://travis-ci.com/github/coconutcake/grp_scheduler/)
 [![Requirements Status](https://requires.io/github/coconutcake/grp_scheduler/requirements.svg?branch=main)](https://requires.io/github/coconutcake/grp_scheduler/requirements/?branch=main)
 
 </div>
