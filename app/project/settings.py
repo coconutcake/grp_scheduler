@@ -55,8 +55,9 @@ INSTALLED_APPS = [
     'drf_yasg',
     'rest_framework',
     'rest_framework.authtoken',
-    'core',
+    'core.apps.CoreConfig',
     'user',
+    'database.apps.DatabaseConfig',
     'mathfilters',
     'django_filters',
     
